@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0054-spiral-matrix) |
 | [1518-water-bottles](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1518-water-bottles) |
 ## Brainteaser
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
