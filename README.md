@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0319-bulb-switcher) |
 | [0672-bulb-switcher-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0672-bulb-switcher-ii) |
+| [0989-add-to-array-form-of-integer](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1518-water-bottles) |
 ## Dynamic Programming
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0724-find-pivot-index) |
+| [0989-add-to-array-form-of-integer](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
