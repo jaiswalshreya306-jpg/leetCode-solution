@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0054-spiral-matrix](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0724-find-pivot-index) |
 ## String
 |  |
