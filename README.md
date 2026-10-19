@@ -123,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
