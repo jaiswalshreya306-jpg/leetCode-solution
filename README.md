@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0724-find-pivot-index) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 ## Counting
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
