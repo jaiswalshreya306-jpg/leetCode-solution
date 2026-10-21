@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 ## Counting
 |  |
