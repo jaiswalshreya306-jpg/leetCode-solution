@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0238-product-of-array-except-self) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0142-linked-list-cycle-ii) |
