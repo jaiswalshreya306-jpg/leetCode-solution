@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
