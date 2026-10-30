@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0989-add-to-array-form-of-integer) |
+| [1046-last-stone-weight](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
