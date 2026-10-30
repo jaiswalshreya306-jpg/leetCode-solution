@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0724-find-pivot-index) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -182,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0020-valid-parentheses) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
