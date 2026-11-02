@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0319-bulb-switcher) |
 | [0672-bulb-switcher-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0672-bulb-switcher-ii) |
@@ -14,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1137-n-th-tribonacci-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
