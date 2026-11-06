@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
 | [1446-consecutive-characters](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1446-consecutive-characters) |
 ## Counting
 |  |
