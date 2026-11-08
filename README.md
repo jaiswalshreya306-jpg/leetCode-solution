@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0070-climbing-stairs) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0141-linked-list-cycle) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0021-merge-two-sorted-lists) |
 ## Greedy
 |  |
