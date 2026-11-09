@@ -250,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
