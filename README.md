@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
 | [1446-consecutive-characters](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1446-consecutive-characters) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Linked List
 |  |
 | ------- |
