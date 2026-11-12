@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0319-bulb-switcher) |
 | [0672-bulb-switcher-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0672-bulb-switcher-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0389-find-the-difference) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
