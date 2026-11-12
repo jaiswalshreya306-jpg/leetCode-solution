@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0389-find-the-difference) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Binary Search
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0389-find-the-difference) |
 | [0672-bulb-switcher-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0672-bulb-switcher-ii) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0389-find-the-difference) |
 | [1446-consecutive-characters](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Counting
