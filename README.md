@@ -125,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
 | [0672-bulb-switcher-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0672-bulb-switcher-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0101-symmetric-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
 | [0672-bulb-switcher-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0672-bulb-switcher-ii) |
 ## Two Pointers
@@ -280,12 +282,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
 ## Database
