@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
 | [0672-bulb-switcher-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0672-bulb-switcher-ii) |
+| [0965-univalued-binary-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
 | [0672-bulb-switcher-ii](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0672-bulb-switcher-ii) |
+| [0965-univalued-binary-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0965-univalued-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/jaiswalshreya306-jpg/leetCode-solution/tree/master/0965-univalued-binary-tree) |
 ## Database
 |  |
 | ------- |
